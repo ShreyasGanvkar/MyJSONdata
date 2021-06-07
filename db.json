@@ -1,0 +1,11 @@
+{
+    "employees": [
+
+    { "id": "1", "empFname": "Stan", "empLname": "Lee", "empDOB": "02.03.1978", "empSal": 2500000,"empImg": "1.png", "deptID": "Marketing" },
+    { "id": "2", "empFname": "Diana", "empLname": "Prince", "empDOB": "03.03.1995", "empSal": 2500000,"empImg":"2.png", "deptID": "Human Resource" },
+    { "id": "3", "empFname": "Clark", "empLname": "Kent", "empDOB": "21.12.1988", "empSal": 2500000,"empImg": "3.png", "deptID": "Sales" },
+    { "id": "4", "empFname": "Bruce", "empLname": "Wayne", "empDOB": "30.05.1988", "empSal": 2500000,"empImg": "4.png", "deptID": "Marketing" },
+    { "id": "5", "empFname": "Selina","empLname": "Kyle", "empDOB": "13.02.2000", "empSal": 2500000,"empImg": "5.png", "deptID": "Engineering" }
+    
+    ]
+}
